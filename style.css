@@ -1,0 +1,54 @@
+body{
+  text-align: center;
+}
+
+.main{
+background-color: #E2E0E0;
+height: 40%;
+width: 40%;
+margin: 5% auto;
+border: 15px solid #E2E0E0;
+border-radius: 5px;
+}
+
+.title{
+font-size: 1.3rem;
+background-color: black;
+color: white;
+}
+
+table{
+  background-color: white;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
+
+td{
+  width: 4rem;
+  height: 2.5rem;
+  border: 1.5px solid #E2E0E0;
+  font-size: 1.8rem;
+}
+
+td:hover{
+  background-color: #FFC877;
+  transition: 1s ease-in-out;
+}
+
+#final{
+  width: 100%;
+  height: 7rem;
+  text-align:right;
+  font-size: 3rem;
+  color: #8a4af3;
+  padding-right: 10px;
+}
+#final:hover{
+  background-color: white;
+}
+
+.operator{
+  background-color: #C14444;
+  color: white;
+}
